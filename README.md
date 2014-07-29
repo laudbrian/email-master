@@ -46,7 +46,7 @@ against a range of spam filters.
 
 
 
-# Integrated services - include tools to see how your email renders in various contexts, as part of wider deliverability service packages.
+# Integrated services - tools to see how your email renders
 
 
 [*EmailReach*](http://www.emailreach.com/)
@@ -71,7 +71,6 @@ clients.
  HELP PREVENT [EVIL](http://brianlau.me/b/images/email_devil.png) EMAIL!
 
 
-[EVIL](http://brianlau.me/b/images/email_devil.png){:target="_blank"} 
 
 
 ## License 
