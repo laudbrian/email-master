@@ -18,49 +18,47 @@ This can all be verified with helpful online utilities & services below:
 # Standalone Email testing services
 
 
-* Email testing and analytics by the powerful Litmus.
-
 [*LITMUS*](http://litmus.com/) 
 
+* Email testing and analytics by the powerful Litmus.
 
-* Well known design and deliverability testing tool from MailChimp.
 
 [*Mail Chimp*](http://templates.mailchimp.com/)
 
+* Well known design and deliverability testing tool from MailChimp.
+
+
+[*Campaign Monitor*](https://www.campaignmonitor.com/testing/)
 
 * Campaign Monitor tests your design in numerous display 
 environments (including selected mobile device displays) and also 
 against a range of spam filters.
 
-[*Campaign Monitor*](https://www.campaignmonitor.com/testing/)
-
-
-* Email on Acid is a new service offering previews in major clients and webmail interfaces, code analysis and a text version generator.
 
 [*Email on Acid*](http://www.emailonacid.com/)
 
+* Email on Acid is a new service offering previews in major clients and webmail interfaces, code analysis and a text version generator.
 
-* Preview My Email is a new service offering screenshots on 15+ clients.
 
 [*PreviewMyEmail*](http://www.previewmyemail.com/)
 
+* Preview My Email is a new service offering screenshots on 15+ clients.
 
-* Help prevent [Evil](http://brianlau.me/b/images/email_devil.png) email! 
 
 
 # Integrated services - include tools to see how your email renders in various contexts, as part of wider deliverability service packages.
 
 
-* The Delivery Audit service at Email Reach includes rendering tests at major clients and webmail services.
-
 [*EmailReach*](http://www.emailreach.com/)
 
+* The Delivery Audit service at Email Reach includes rendering tests at major clients and webmail services.
+
+
+[*Return Path*](http://www.returnpath.com/solutions/)
 
 * The Campaign Preview tool within the Deliverability Monitoring Suite at Return Path tests your design at various webmail services and in various email 
 readers. The Return Path application actual powers many of the display 
 testing services offered by others.
-
-[*Return Path*](http://www.returnpath.com/solutions/)
 
 
 [*Inbox Snapshot*](http://lyris.com/us-en/products/lyris-hq)
@@ -70,6 +68,7 @@ suite and shows you what your email looks like in 50+ different email
 clients.
 
 
+ HELP PREVENT [EVIL](http://brianlau.me/b/images/email_devil.png target="_blank") EMAIL! 
 
 
 ## License 
