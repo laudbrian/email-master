@@ -1,17 +1,18 @@
-## BRIAN'S EMAIL MASTER repo
+## Breakdown of B's - ALL HAIL EMAIL - repo
 
+Roundup of all my resources and links are at the very bottom.
 
-Roundup of all my resources and links at the bottom.
-
-Put up an email scaffold form scratch - may change as fast as my tastes.
+I have committed to this repository an email scaffold form created from scratch and this will be changing with the times.
 
 Using the current scaffold form will work nicely across all browsers such as:
 
 IE - Firefox - Chrome - Safari - Opera, etc.
 
-Any templates in my repository use best practices and will work and appear nicely across all email clients such as: Outlook, Gmail, AOL, Yahoo, etc.
+Any templates in my repository use best practices and will work and appear nicely across all email clients such as: 
 
-This can all be verified with helpful online utilities & services below: 
+Outlook, Gmail, AOL, Yahoo, etc.
+
+This can all be verified with helpful online utilities & services below so let's try our best to help prevent [Evil](http://brianlau.me/b/images/email_devil.png) Email! 
 
 
 
@@ -66,11 +67,6 @@ testing services offered by others.
 * The Inbox Snapshot feature is part of the Lyris HQ integrated marketing 
 suite and shows you what your email looks like in 50+ different email 
 clients.
-
-
- HELP PREVENT [EVIL](http://brianlau.me/b/images/email_devil.png) EMAIL!
-
-
 
 
 ## License 
