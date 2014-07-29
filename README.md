@@ -68,7 +68,10 @@ suite and shows you what your email looks like in 50+ different email
 clients.
 
 
- HELP PREVENT [EVIL](http://brianlau.me/b/images/email_devil.png target="_blank") EMAIL! 
+ HELP PREVENT [EVIL](http://brianlau.me/b/images/email_devil.png) EMAIL!
+
+
+[EVIL](http://brianlau.me/b/images/email_devil.png){:target="_blank"} 
 
 
 ## License 
