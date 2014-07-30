@@ -1,8 +1,8 @@
-## Breakdown of B's - ALL HAIL EMAIL - repo
+## ALL HAIL EMAIL 
 
-Roundup of all my resources and links are at the very bottom.
+This is a breakdown of Brian's All Hail Email repo which is a roundup of the best email resources and links.
 
-I have committed to this repository an email scaffold form created from scratch and this will be changing with the times.
+I have committed to this repository an email scaffold form created from scratch with the help of TeamTreehouse's HTML Design course. This is used as a foundation and will be changing as more knowledge is acquired.
 
 Using the current scaffold form will work nicely across all browsers such as:
 
