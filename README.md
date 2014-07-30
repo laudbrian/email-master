@@ -1,18 +1,18 @@
 ## ALL HAIL EMAIL 
 
-This is a breakdown of Brian's All Hail Email repo which is a roundup of the best email resources and links.
+The All Hail Email repo is a roundup of the best email resources and links.
 
 I have committed to this repository an email scaffold form created from scratch with the help of TeamTreehouse's HTML Design course. This is used as a foundation and will be changing as more knowledge is acquired.
 
 Using the current scaffold form will work nicely across all browsers such as:
 
-IE - Firefox - Chrome - Safari - Opera, etc.
+Chrome - Firefox - IE - Safari - Opera, etc.
 
 Any templates in my repository use best practices and will work and appear nicely across all email clients such as: 
 
-Outlook, Gmail, AOL, Yahoo, etc.
+Gmail, Apple, Outlook, AOL, Yahoo, etc.
 
-This can all be verified with helpful online utilities & services below so let's try our best to help prevent [Evil](http://brianlau.me/b/images/email_devil.png) Email! 
+There are a number of helpful online utilities & services below so let's try our best to help prevent [Evil](http://brianlau.me/b/images/email_devil.png) Email! If you find any helpful resources to share please email me &lt;brian@brianlau.me&gt; or contribute to this project.
 
 
 
